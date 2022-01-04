@@ -20,8 +20,8 @@ No previous skills needed
 
 If the scenario is part of a set of related scenarios, the table of contents will appear here as a bulleted list of all the scenario titles, with links to each other.
 
-- Scenario A
-- Scenario B
-- Scenario C
-
+- Scenario A Task 1
+- Scenario B Task 2
+- Scenario C Task 3
+- Scearnio D Task 4
 
